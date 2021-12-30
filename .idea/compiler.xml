@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Declarations.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_characters.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_longs.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Ways_to_create_an_array_of_ints.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-The_maximum_product_of_adjacent_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_number_of_loop_body_executions.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_sequence.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_sum_of_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
